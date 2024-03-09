@@ -1,0 +1,27 @@
+{
+  "name": "wayae-wong-tulus-tampil",
+  "version": "1.0.0",
+  "description": "mari berhitung lagi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusjr182/wayae-wong-tulus-tampil.git"
+  },
+  "keywords": [
+    "mari",
+    "berhitung",
+    "lagi"
+  ],
+  "author": "Anonim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusjr182/wayae-wong-tulus-tampil/issues"
+  },
+  "homepage": "https://github.com/viniciusjr182/wayae-wong-tulus-tampil#readme",
+  "dependencies": {
+    "wong-tulus-ratauadus": "^1.0.0"
+  }
+}
